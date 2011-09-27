@@ -1,7 +1,7 @@
 Welcome to Serendipity
 ======================
 
-Serendipity is a Python 3 Web Application Framework, including everything you need to quickly build and deploy a Web Application using a well-known Python ORM (SQLAlchemy + SQLasagna Extensions) with support to many relational databases and advanced features like automatic Scaffolding generation, Routing and etc...
+Serendipity is a Python 3 Web Application Framework, including everything you need to quickly build and deploy a Web Application using a well-known Python ORM (SQLAlchemy + [SQLasagna](ygbr/SQLasagna) Extensions) with support to many relational databases and advanced features like automatic Scaffolding generation, Routing and etc...
 
 By default, Serendipity comes with a simple login and permissions / ACL system. Also it comes with a i18n, very simple translation system integrated with the template engine to generate per-language caches.
 
